@@ -1,5 +1,5 @@
 # Pro-Game
- A game i wasted my life on
+- **A game i wasted my life on**
  
 # Features
   - Realistic life
@@ -7,5 +7,10 @@
   - Nothing else
 
 # Q&A
- **Q:** Why?
- **A:** Why not
+- **Q:** Why?
+- **A:** Why not
+ 
+# Help
+ - Compile using GCC
+
+ - Download compiled version at : **https://tabbydacat.itch.io/pro-game**
